@@ -1,1 +1,1 @@
-<?php include_once("week-6-hw.html"); ?>
+<?php include_once("index.html"); ?>
